@@ -1,6 +1,6 @@
 void main() {
-    IO.println("Hello, World!");
-    IO.println("Im Asifa");
-    IO.println("QA Engineer here");
-    IO.println("Im from Dallas,TX");
+    System.out.println("Hello, World!");
+    System.out.println("Im Asifa");
+    System.out.println("QA Engineer here");
+    System.out.println("Im from Dallas,TX");
 }

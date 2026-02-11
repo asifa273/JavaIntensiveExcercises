@@ -9,7 +9,7 @@ public class Variables {
 
         double dailyworkHours = 8.5;
 
-        IO.print("Name: " + name + "\n" + "Job Title: " + jobTitle  + "\n" +  "Age: " + age + "\n" +  "Professional Experience: " + yearsOfExperience + "\n" +  "Daily Work Hours: " + dailyworkHours  + "\n" +  "Is Upskilling: " + isUpskilling + "\n" +  "Is Looking for Job: " + isLookingforJob  );
+        System.out.print("Name: " + name + "\n" + "Job Title: " + jobTitle  + "\n" +  "Age: " + age + "\n" +  "Professional Experience: " + yearsOfExperience + "\n" +  "Daily Work Hours: " + dailyworkHours  + "\n" +  "Is Upskilling: " + isUpskilling + "\n" +  "Is Looking for Job: " + isLookingforJob  );
     }
 
 }
